@@ -1,4 +1,4 @@
-# Challenge-Oracle-ConversorMonedas
+<h1 align="center"> Challenge-Oracle-ConversorMonedas </h1>
 Codigo de la aplicación de un Conversor de Monedas como parte del Challenge-based learning de AluraLatam y Oracle ONE
 
 <h1>Estado del proyecto: FINALIZADO</h1>
