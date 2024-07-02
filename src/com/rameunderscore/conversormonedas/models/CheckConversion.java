@@ -19,7 +19,7 @@ public class CheckConversion{
 //El usuaria elige la moneda origen y destino asi como el valor a convertir.
     public CurrencyAPI doConversion(String initialCurrency,String targetCurrency, double value){
         //APIKey modificable obtenida en https://www.exchangerate-api.com/
-        final String apiKey = "bb061fc56484d8baf8f263f6";
+        final String apiKey = "INGRESA TU API KEY";
 
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/"+apiKey+"/pair/"
                 +initialCurrency+"/"+targetCurrency+"/"+value);
