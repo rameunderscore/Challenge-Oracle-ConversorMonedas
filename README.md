@@ -1,4 +1,4 @@
-<h1 align="center"> Challenge-Oracle-ConversorMonedas </h1>
+<h1 align="center"> 💰 Challenge-Oracle: Conversor de Monedas 💰 </h1>
 
 La app te permite hacer una conversion de una moneda a otra de manera libre gracias al consumo de la API https://www.exchangerate-api.com/
 
@@ -16,4 +16,6 @@ Aquí el usuario tiene una guía para escribir la moneda que desea utilizar, ¡Y
 
 NOTA: Solo se pueden utilizar las monedas disponibles en: https://www.exchangerate-api.com/docs/supported-currencies
 
-
+<h1>Tecnologías utilizadas ✔️:</h1>
+- Java
+- GSON de Google
